@@ -64,7 +64,7 @@ Study Planner is a sophisticated desktop application built with Python and Tkint
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/study-planner.git
+git clone https://github.com/sigonebyexample/study-planner.git
 cd study-planner
 
 # Make executable and run
